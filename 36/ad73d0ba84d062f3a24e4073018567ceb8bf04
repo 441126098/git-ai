@@ -1,0 +1,19 @@
+agent-support/vscode/src/blame-service.ts
+  s_48b514ddf2ec46::t_1f4e1df12d26ea 122,150,152-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.5",
+  "base_commit_sha": "36ad73d0ba84d062f3a24e4073018567ceb8bf04",
+  "prompts": {},
+  "sessions": {
+    "s_48b514ddf2ec46": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e10da-c48a-77d1-80b8-5dd98a9478e5",
+        "model": "gpt-5.5"
+      },
+      "human_author": "allenZhang <allenzhang570@gmail.com>"
+    }
+  }
+}
