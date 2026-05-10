@@ -1,0 +1,30 @@
+agent-support/vscode/src/blame-service.ts
+  s_48b514ddf2ec46::t_97fb2f96747ef4 2-5,10-11,62,90,92-97,99-174,244-245
+  s_48b514ddf2ec46::t_f5924fd2d4d3f1 328
+tests/integration/blame_comprehensive.rs
+  s_48b514ddf2ec46::t_73d2b9608b0ec0 29,173-186,190-200,207-223,228-240,242-271
+  s_48b514ddf2ec46::t_9a4305df1e7137 187-189,201-206,224-227,241
+src/commands/blame.rs
+  s_48b514ddf2ec46::t_6d4a44dee34a25 1301
+  s_48b514ddf2ec46::t_8973a97fead56d 4,164-166,218,294,401,418-421,427,434-438,440-442,571,641
+  s_48b514ddf2ec46::t_c9e620bb5ba54d 1373-1375
+  s_48b514ddf2ec46::t_5d2572ab869dd7 2300-2305
+  s_48b514ddf2ec46::t_79a85dfa0ab59c 428-433,439,1309-1315,1323,1355-1357,1362,1366-1368
+  s_48b514ddf2ec46::t_d8d65df7faf4ac 1288-1300,1302-1308,1316-1322,1324-1354,1358-1361,1363-1365,1369-1372,1376-1383
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.4.5",
+  "base_commit_sha": "1d8cf4f92c97b656d1914f2d16b2727b7f6a17f0",
+  "prompts": {},
+  "sessions": {
+    "s_48b514ddf2ec46": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e10da-c48a-77d1-80b8-5dd98a9478e5",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
